@@ -20,3 +20,9 @@ Img文件夹用于存图片，可以供展示等用途。
 
 
 
+
+
+### 其他
+
+tableau预测 [tableau帮助 | Tableau 中的预测工作原理 | 优阅达 (dkmeco.com)](https://www.dkmeco.com/community/help/tableau/desktop/52/936)
+
