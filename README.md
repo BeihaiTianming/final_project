@@ -8,6 +8,11 @@ Data文件夹主要用于存放所有数据
 
 <img src="./img/jiahao/1.png" style="zoom:50%;" />
 
+我新增了以下数据：
+（1）世界各地从2000年到2020年的森林面积数据，数据来源：https://www.kylc.com/stats/global/yearly_overview/g_area_forest.html
+（2）世界平均气温数据，基准数据为1901-2000的平均值。数据来源：https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/global/time-series#:~:text=Global%20Land%20and%20Ocean%20September,JSON%20XML%20Citing%20This%20Page
+（3）世界各国2000年到2020年的CO2排放总量数据，数据来源：https://data.worldbank.org.cn/indicator/EN.ATM.CO2E.PC
+
 ## Img
 
 Img文件夹用于存图片，可以供展示等用途。
